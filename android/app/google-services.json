@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870672418199",
+    "project_id": "flutter-sport-activities-app",
+    "storage_bucket": "flutter-sport-activities-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870672418199:android:dbfb0edc498e08250bb0d2",
+        "android_client_info": {
+          "package_name": "com.example.sport_activities_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArriwRGOd80iEHuN_H2Cy0COJ2eHTzgHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
